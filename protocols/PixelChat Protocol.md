@@ -1,12 +1,7 @@
 # PixelChat Protocol
 
 > [!WARNING]
-> This service is in early stages of development and might be discontinued at any time without notice.
-
-The default endpoint is located at `wss://api.pixelclient.xyz/chat`.
-
-Our backend does not produce any logs when connecting or using this service.
-The only metrics visible to us are recorded by [Cloudflare](<https://www.cloudflare.com/privacypolicy/>). These are very generic and only show traffic and geographic metrics.
+> This service is discontinued. No official backend or implementations exist anymore.
 
 ## Client to Server
 
